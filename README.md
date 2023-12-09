@@ -6,10 +6,12 @@
 
 
 - 👋 Hi, I’m @Chaibouu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I am a full-stack web developer
+- 💞️ I’m looking to collaborate on your projects
+- 📫 How to reach me https://www.facebook.com/profile.php?id=100087383353348 ,www.linkedin.com/in/chaibouu
+
+
 
 <!---
 Chaibouu/Chaibouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
