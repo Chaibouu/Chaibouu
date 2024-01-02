@@ -24,7 +24,46 @@
 [![Committers.top badge](https://user-badge.committers.top/niger_private/Chaibouu.svg)](https://user-badge.committers.top/niger_private/Chaibouu)
 ## 💰 You can help me by Donating
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,wordpress,docker,express,firebase,html,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,bash,electron&perline=12" />
+  </a>
+</p>
 
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaibouu/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://twitter.com/moctar_yonli" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+  </a> 
+  <a href="https://www.instagram.com/moctaryonli/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+  </a>
+  <a href="https://www.facebook.com/moctar.yonli.5" target="_blank">
+    <img align="center" src="https://github.com/mocy111/Moctar_Yonli/blob/9b543223c69dd53171ba883d80d1f6d2755c5106/logo%20facebook.jpg" alt="facebook" height="50" width="50" />
+  </a>
+  <a href="https://moctar-yonli.netlify.app" target="_blank">
+  <img align="center" src="https://github.com/chaibouu/Moctar_Yonli/blob/51220666e047cd738344f63d1c2295ee0e4a57df/portfolio.png" alt="portfolio moctar yonli" height="50" width="50" />
+  </a>
+</p>
 
 
 
