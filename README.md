@@ -60,9 +60,9 @@
   <a href="https://www.facebook.com/profile.php?id=100087383353348" target="_blank">
     <img align="center" src="https://github.com/mocy111/Moctar_Yonli/blob/9b543223c69dd53171ba883d80d1f6d2755c5106/logo%20facebook.jpg" alt="facebook" height="50" width="50" />
   </a>
-  <a href="https://moctar-yonli.netlify.app" target="_blank">
+<!--   <a href="https://moctar-yonli.netlify.app" target="_blank">
   <img align="center" src="https://github.com/chaibouu/Moctar_Yonli/blob/51220666e047cd738344f63d1c2295ee0e4a57df/portfolio.png" alt="portfolio moctar yonli" height="50" width="50" />
-  </a>
+  </a> -->
 </p>
 
 
